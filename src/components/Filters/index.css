@@ -1,0 +1,15 @@
+.hr {
+  background-color: #cbd5e1;
+  border: none;
+  height: 2px;
+  margin-bottom: 20px;
+}
+.filter-lists {
+  list-style-type: none;
+}
+.filters-h1 {
+  font-size: 20px;
+}
+.filters-li {
+  margin: 10px 0;
+}
